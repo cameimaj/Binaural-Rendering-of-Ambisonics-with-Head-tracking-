@@ -1,6 +1,6 @@
 # Binaural-Rendering-of-Ambisonics-Head-tracking-
 
-This is a collection of Max/MSP patches (in .JSON format) developed as part of a dissertation for MA in Sonic Arts at Queen's University Belfast By James Mackenzie  
+This is a collection of Max/MSP patches developed as part of a dissertation for MA in Sonic Arts at Queen's University Belfast By James Mackenzie  
 
 READ ME
 
